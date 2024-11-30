@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodewarsSolutionsCSharp", "CodewarsSolutionsCSharp\CodewarsSolutionsCSharp.csproj", "{11DDBBDA-B309-4C88-8C7F-23D924938113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solutions", "Solutions\Solutions.csproj", "{30B8760E-263D-462D-8B3D-2310C7BA3077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11DDBBDA-B309-4C88-8C7F-23D924938113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DDBBDA-B309-4C88-8C7F-23D924938113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DDBBDA-B309-4C88-8C7F-23D924938113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DDBBDA-B309-4C88-8C7F-23D924938113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B8760E-263D-462D-8B3D-2310C7BA3077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B8760E-263D-462D-8B3D-2310C7BA3077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B8760E-263D-462D-8B3D-2310C7BA3077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B8760E-263D-462D-8B3D-2310C7BA3077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {724919B4-E349-4ED7-A635-2757967E55C9}
+	EndGlobalSection
+EndGlobal
